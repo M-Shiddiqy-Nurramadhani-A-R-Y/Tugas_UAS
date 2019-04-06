@@ -1,14 +1,11 @@
-# Tugas-UAS
+# Tugas_UAS
 
 ```
-
-Flowchart Tugas UAS
-
+Flowchart All Tugas UAS
 ```
-
 
 <p align="center">
-<img src="https://github.com" width="800" height="800" />
+<img src="https://github.com/M-Shiddiqy-Nurramadhani-A-R-Y/Tugas_UAS/blob/master/IMAGE%20PROGRAM/Flow%20Tugas%20UTS%20LENGKAP.png" width="850" height="850" />
 
 </p>
 
